@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "email": "se@s.wq",
+      "password": "$2a$10$WtValSBl6CldTpqkEmDNbOeurZ9.ygFPWg7H9dzcfRT3ncUKyy1sO",
+      "firstName": "a",
+      "lastName": "a",
+      "id": 1
+    },
+    {
+      "email": "a@a.a",
+      "password": "$2a$10$EEkLohjnpdoljNMbNnDIOeKv8yjwQaeoQ5csMLE0TZwmRso5wYLx2",
+      "firstName": "a",
+      "lastName": "a",
+      "id": 2
+    },
+    {
+      "email": "asd@asd.s",
+      "password": "$2a$10$yeXll.d8uFOzDTojVtb1BOcRVa1icxXwDTRmuxFkDGeWO48cGdp7K",
+      "firstName": "фыв",
+      "lastName": "фыв",
+      "id": 3
+    },
+    {
+      "email": "qweas@as.qwe",
+      "password": "$2a$10$qdNTBzqlluf0w7mvDzXZj.k/bkQbCIDHZbBqdfUXJbU7q1/oaEOwW",
+      "firstName": "asd",
+      "lastName": "asd",
+      "id": 4
+    },
+    {
+      "email": "q@w.e",
+      "password": "$2a$10$jbMBtQvNyFFhFRKw2fgu8uOOFmSjkZ/MFBWAX7rahFLZdtKgvUs4a",
+      "firstName": "a",
+      "lastName": "a",
+      "id": 5
+    }
+  ]
+}
